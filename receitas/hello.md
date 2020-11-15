@@ -1,0 +1,11 @@
+# TESTE MARKDOW = H1
+
+## TESTE MARKDOW = H2
+
+### TESTE MARKDOW = H3
+
+*ITÁLICO* 
+
+__NEGRITO__
+
+~~GRINFADO~~
