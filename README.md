@@ -6,4 +6,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Baião de dois
 - Sandwish
-- Cocha de peru assada
+- Coxa de peru assada
